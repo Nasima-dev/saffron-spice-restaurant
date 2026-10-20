@@ -86,11 +86,16 @@ Configure the restaurant's WhatsApp number in the appropriate project configurat
 **Note:** Customers must review and send the WhatsApp message themselves. Orders are not automatically stored or confirmed by a backend.
 
 
-## 📸 Screenshots
+## Screenshots
 
+### Homepage
+![Restaurant Homepage](RESTAURANT/home-page.png)
 
+### Menu
+![Restaurant Menu](RESTAURANT/menu.png)
 
-![Homepage](./home-page.png)
+### Shopping Cart
+![Restaurant Cart](RESTAURANT/cart.png)
 
 
 
