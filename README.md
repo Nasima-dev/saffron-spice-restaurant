@@ -88,14 +88,15 @@ Configure the restaurant's WhatsApp number in the appropriate project configurat
 
 ## 📸 Screenshots
 
-### 🏠 Homepage
-![Saffron & Spice Homepage](home-page.png)
 
-### 🍽️ Menu
-![Restaurant Menu](menu.png)
+### Homepage
+![Saffron & Spice Homepage](./home-page.png)
 
-### 🛒 Shopping Cart
-![Shopping Cart](cart.png)
+### Menu
+![Restaurant Menu](./menu.png)
+
+### Shopping Cart
+![Shopping Cart](./cart.png)
 
 
 
