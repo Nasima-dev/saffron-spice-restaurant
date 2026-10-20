@@ -88,24 +88,16 @@ Configure the restaurant's WhatsApp number in the appropriate project configurat
 
 ## 📸 Screenshots
 
-### Homepage
-![Saffron & Spice Homepage](photos25/RESTAURANT/homepage.png
-)
+### 🏠 Homepage
+![Saffron & Spice Homepage](home-page.png)
 
-### Menu
-![Restaurant Menu](screenshots/menu.png)
+### 🍽️ Menu
+![Restaurant Menu](menu.png)
 
-### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
-
-## 🌐 Live Demo
-
-[Visit Saffron & Spice](https://saffron-spice-restaurant-website.netlify.app/)
+### 🛒 Shopping Cart
+![Shopping Cart](cart.png)
 
 
-## 🌐 Live Demo
-
-**Visit the Website:** [Saffron & Spice Restaurant Website](https://saffron-spice-restaurant-website.netlify.app/)
 
 ## 👩‍💻 Developer
 
