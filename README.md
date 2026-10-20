@@ -85,9 +85,22 @@ Configure the restaurant's WhatsApp number in the appropriate project configurat
 
 **Note:** Customers must review and send the WhatsApp message themselves. Orders are not automatically stored or confirmed by a backend.
 
+
 ## 📸 Screenshots
 
-Add screenshots of the actual website to showcase the homepage, interactive menu, shopping cart, and responsive mobile layout.
+### Homepage
+![Saffron & Spice Homepage](screenshots/home-page.png)
+
+### Menu
+![Restaurant Menu](screenshots/menu.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+## 🌐 Live Demo
+
+[Visit Saffron & Spice](https://saffron-spice-restaurant-website.netlify.app/)
+
 
 ## 🌐 Live Demo
 
