@@ -89,7 +89,8 @@ Configure the restaurant's WhatsApp number in the appropriate project configurat
 ## 📸 Screenshots
 
 ### Homepage
-![Saffron & Spice Homepage](screenshots/home-page.png)
+![Saffron & Spice Homepage](photos25/RESTAURANT/homepage.png
+)
 
 ### Menu
 ![Restaurant Menu](screenshots/menu.png)
